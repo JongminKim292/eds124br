@@ -1,0 +1,17 @@
+<style>
+/*??첫줄작동안됨*/h1{font:lighter 4rem 'changa one', cursive; border:solid;}
+    h1{font:lighter 4rem 'changa one', cursive; border:solid;}
+    h2{font:lighter 3rem/1px 'changa one', cursive;}
+    h3,h4{font-family:'itim', cursive; font-weight:bold;}
+    li {list-style-type: none;}
+    a:link{text-decoration: none; color: #333333}
+    a:visited{text-decoration: none; color: #333333}
+    a:hover{text-decoration: none; color:gray;}
+    a:active{text-decoration: none; color:gray;}
+    div{border:1px solid; box-sizing:border-box}
+    #menu{font:lighter 1.5rem 'changa one', cursive;}
+    .icon{width:50px; position:relative; top:8px;}
+    #contact li{font:lighter 2rem 'changa one', cursive;}
+    #grid{display:grid; grid-template-columns:0.3fr 1fr;}
+    p{font-family:'itim', cursive;}
+</style>
